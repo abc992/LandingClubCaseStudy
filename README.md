@@ -41,10 +41,12 @@ Our company is one of the largest online loan marketplace, facilitating all purp
     --Conditions – This is the final step of the transaction where specifications of the transaction like the amount leaded, rate of interest, monthly repayment amount, etc is calculated based on the above factors for the borrower. 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+-	Do not issue loans with interest rate 25% and more it has high default ratio.
+-	To reduce future loss do not issue short term loans (36 months) if the client annual income is less than 25K. 
+-	Issue loans to employees with 10 or more years with precaution as they represent a risk of ending as a default and it's recommended to approve only small amounts.
+-	To reduce future loss do not issue loans with interest rate of 12.5% or higher to clients with annual income less than 50k. 
+-	Groups A and B are the safest to invest.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
